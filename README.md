@@ -6,7 +6,6 @@ I'm a young software developer, hardware engineer, cybersecurity fan, privacy ac
 ![TheTridentGuy's Stats](https://github-readme-stats.vercel.app/api?username=TheTridentGuy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![](https://ipv4.games/claim?name=plscuddle.me)
 
-> **Support me:**
-> 
-> - Ko-Fi: https://ko-fi.com/thetridentguy
-> - XMR: 468FicsEKJVDgsoDwnWX9xD9pmdMEz549Br6WXHFLtWg4gLUUemccRMa5stCMDxxK5es86EAKgZnL5cTmiCsvi1b1Wk67CT
+**Support me:**
+- Ko-Fi: https://ko-fi.com/thetridentguy
+- XMR: 468FicsEKJVDgsoDwnWX9xD9pmdMEz549Br6WXHFLtWg4gLUUemccRMa5stCMDxxK5es86EAKgZnL5cTmiCsvi1b1Wk67CT
